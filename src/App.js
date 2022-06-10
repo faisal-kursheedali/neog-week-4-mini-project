@@ -1,4 +1,4 @@
-import react  from "react";
+
 import './App.css';
 import Time from './pages/tiem';
 import Header from './pages/header';

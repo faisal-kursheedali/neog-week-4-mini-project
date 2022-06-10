@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import "./css/header.css"
 
 import data from "../quotes.json";
