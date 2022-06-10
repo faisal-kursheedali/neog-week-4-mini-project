@@ -1,0 +1,25 @@
+.headerMainTaskBox{
+    margin-top: .5rem;
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; */
+}
+.headerTaskInpiut{
+    outline: none;
+    border: 0px;
+    background-color: initial;
+    border-bottom: 5px solid red;
+    margin-right: .5rem;
+    font-size: 1.5rem;
+    max-width: 600px;
+    color: black;
+}
+.headerTaskBtn{
+    margin-top: .5rem;
+    padding: .5rem 1.5rem;
+    background-color: black;
+    outline: none;
+    border: 0px;
+    border-radius: .3rem;
+}

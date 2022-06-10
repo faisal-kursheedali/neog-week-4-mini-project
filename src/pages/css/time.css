@@ -1,0 +1,21 @@
+.hour,.minute{
+    font-size: 5vw;
+    font-weight: bolder;
+}
+.second{
+    font-size: 2vw;
+}
+
+.day{
+    font-size: 1.5vw;
+    font-weight: bold;
+}
+.date,.month,.year{
+    font-size: 2vw;
+}
+.date-time-container{
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+
+}

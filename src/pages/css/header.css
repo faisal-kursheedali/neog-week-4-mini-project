@@ -1,0 +1,40 @@
+
+.header-txt{
+    font-size: 10vw;
+}
+.user-name{
+    letter-spacing: 2px;
+    font-weight: bolder;
+}
+.main-task-box{
+    max-width: 200px;
+    margin: auto;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.main-task{
+    font-size: 5vw;
+}
+.del-main-task{
+    font-size: 1.2rem;
+
+}
+.user-input{
+    border: 0px;
+    outline: 0;
+    border-bottom: 2px solid gray;
+    margin: 1rem;
+}
+.quote-box{
+    max-width: 100%;
+    width: 50%;
+    margin: auto;
+    margin-top: 1.5rem;
+}
+.quote{
+    font-size: 1rem;
+}
+.author{
+    font-size: 1.05rem;
+}

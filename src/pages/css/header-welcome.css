@@ -1,0 +1,29 @@
+.header-welcome-input-box{
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-welcome-input{
+    background-color: initial;
+    border: none;
+    border-bottom: 5px solid white ;
+    outline: none;
+    width: 250px;
+    font-size: 2rem;
+}
+.header-welcome-input::placeholder{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+}
+
+.header-welcome-btn{
+   margin-top: 1.5rem;
+   padding: .5rem 1.5rem; 
+   border: 0px ;
+   border-radius: .3rem;
+   background-color: black;
+}

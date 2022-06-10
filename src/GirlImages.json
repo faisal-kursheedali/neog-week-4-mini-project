@@ -1,0 +1,20 @@
+{
+	"GirlImages": [
+		{
+			"description": "Girl with camera",
+			"imageUrl": "https://images.pexels.com/photos/3812944/pexels-photo-3812944.jpeg"
+		},
+		{
+			"description": "Beautiful Girl with Glasses",
+			"imageUrl": "https://images.pexels.com/photos/2100063/pexels-photo-2100063.jpeg"
+		},
+		{
+			"description": "Redhead with frackles",
+			"imageUrl": "https://images.pexels.com/photos/3228213/pexels-photo-3228213.jpeg"
+		},
+		{
+			"description": "Girl in black dress",
+			"imageUrl": "https://images.pexels.com/photos/1385472/pexels-photo-1385472.jpeg"
+		}
+	]
+}
